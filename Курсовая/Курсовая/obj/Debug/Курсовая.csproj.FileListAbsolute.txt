@@ -1,0 +1,14 @@
+C:\Users\greyer\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\greyer\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\greyer\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form3.resources
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form4.resources
+C:\Users\greyer\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form5.resources
